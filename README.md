@@ -1,6 +1,6 @@
 # profile 
 
-# Halo, saya [arkham]
+# Halo, saya arkham
 saya adalah seorang pelajar yang sedang belajar webdev
 
 
